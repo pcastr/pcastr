@@ -23,3 +23,6 @@
   <a href="https://www.linkedin.com/in/pcastr/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
+
+### Github stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcastr&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&hide_border=true" />
