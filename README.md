@@ -1,9 +1,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcastr&show_icons=true&theme=synthwave)
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=#f222ff)
+
+
+
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet)
 
 <!--
 **pcastr/pcastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
