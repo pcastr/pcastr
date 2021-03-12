@@ -9,7 +9,7 @@
 <!-- Icons -->
 
 [1.2]: https://github.com/pcastr/pcastr/blob/main/assets/insta.png
-[2.2]: 
+[2.2]: https://github.com/pcastr/pcastr/blob/main/assets/ln.png
 
 <!-- Links to your social media accounts -->
 [1]: https://www.instagram.com/pontesok/
