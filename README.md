@@ -3,9 +3,6 @@
 ###  My name is Lucas and i'm a undergrad student in statistics.
 
 ### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=blueviolet)
-
 <p>
 <img alt='Python' src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 <img alt='R' src="https://img.shields.io/badge/R_project-276DC3?logo=r&logoColor=white&style=for-the-badge" />
