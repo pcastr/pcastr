@@ -6,7 +6,12 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=blueviolet)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcastr&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&hide_border=true"/>
+<p>
+<img alt='Python' src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt='R' src="https://img.shields.io/badge/R_project-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcastr&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&hide_border=true" />
 
 
 
