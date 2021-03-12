@@ -8,8 +8,8 @@
 
 <!-- Icons -->
 
-[1.2]: https://i.imgur.com/OWdUupI.png
-[2.2]: https://i.imgur.com/PXyIkWx.png?size=0.2
+[1.2]: https://github.com/pcastr/pcastr/blob/main/assets/insta.png
+[2.2]: 
 
 <!-- Links to your social media accounts -->
 [1]: https://www.instagram.com/pontesok/
