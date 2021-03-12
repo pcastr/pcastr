@@ -4,6 +4,8 @@
 # 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=blueviolet)
+
 
 
 <!-- Icons -->
