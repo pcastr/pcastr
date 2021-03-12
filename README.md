@@ -6,7 +6,8 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=blueviolet)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcastr&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcastr&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&hide_border=true"/>
+
 
 
 ### Send me a message!
