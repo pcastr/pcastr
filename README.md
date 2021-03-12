@@ -18,7 +18,7 @@
 [2]: https://www.linkedin.com/in/pcastr/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcastr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcastr)](https://github.com/pcastr)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcastr&show_icons=true&theme=synthwave)
 
