@@ -1,36 +1,27 @@
 <!-- Actual text -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-###  My name is Lucas and i'm a undergrad student in statistics.You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-# Technologies & Tools
+###  My name is Lucas and i'm a undergrad student in statistics.
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet)
+### 🔧 Technologies & Tools
+<p>
+<img alt='Python' src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt='R' src="https://img.shields.io/badge/Project-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<p>
+  
+### Send me a message!
 
+- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
-<!-- Icons -->
+<p>
+  <a href="https://www.instagram.com/pontesok/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/pcastr/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+</p>
 
-[1.2]: https://i.imgur.com/OWdUupI.png
-[2.2]: https://i.imgur.com/PXyIkWx.png?size=0.2
+### Github stats
 
-<!-- Links to your social media accounts -->
-[1]: https://www.instagram.com/pontesok/
-[2]: https://www.linkedin.com/in/pcastr/
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcastr&count_private=true&show_icons=true&theme=synthwave" />
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcastr&show_icons=true&theme=synthwave)
-
-<!--
-**pcastr/pcastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
