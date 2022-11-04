@@ -2,8 +2,10 @@
 <!-- Actual text -->
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-###  My name is Lucas and i'm a statistics undergrad student.
+# Olá, pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+###  Sou o Lucas, estudante de Bacharel em Estátistica. Meu foco é a estatística computacional, então prentendo aprender tudo que envolve o assunto, desde Engenharia de Dados, passando por Ciência de Dados até a Engenhearia de Machine Learning. 
+
+### Neste GitHub irei registrar minha jornada no mundo dos dados, com projetos, pesquisas e estudos.
 
 ### 🔧 Technologies & Tools
 <p>
@@ -12,12 +14,16 @@
 
 <p>
   
-### 💬 Send me a message!
+### 💬 Me manda uma menssagem!
 
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+- Estou aberto a colaborações, então se você achar meu trabalho interessante, sinta-se à vontade para me enviar uma mensagem! Mesmo se você não fizer isso, envie-me uma mensagem de qualquer maneira! Aqui é onde você pode me encontrar:
 
 <p>
   <a href="https://www.linkedin.com/in/pcastr/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
+# Estudos em Data Science
+### Aqui colocarei o link para os <a href="https://github.com/pcastr/Estudos-de-Data-Science">estudos</a>, tentarei deixar tudo bem explicado! Qualquer dúvida ou sugestão, é só mandar uma menssagem!
+
+* <a href="https://github.com/pcastr/Estudos-de-Data-Science/tree/main/R">Big Data Analytics com R</a>
