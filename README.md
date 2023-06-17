@@ -23,7 +23,3 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-# Estudos em Data Science
-### Aqui colocarei o link para os <a href="https://github.com/pcastr/Estudos-de-Data-Science">estudos</a>, tentarei deixar tudo bem explicado! Qualquer dúvida ou sugestão, é só mandar uma menssagem!
-
-* <a href="https://github.com/pcastr/Estudos-de-Data-Science/tree/main/R">Big Data Analytics com R</a>
