@@ -3,7 +3,7 @@
 
 
 # Olá, pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-###  Sou o Lucas, estudante de Bacharel em Estátistica. Meu foco é a estatística computacional, então prentendo aprender tudo que envolve o assunto, desde Engenharia de Dados, passando por Ciência de Dados até a Engenhearia de Machine Learning. 
+###  Sou o Lucas, estudante de Bacharel em Ciência da Computação. Meu foco é a estatística computacional, então prentendo aprender tudo que envolve o assunto, desde Engenharia de Dados, passando por Ciência de Dados até a Engenhearia de Machine Learning. 
 
 ### Neste GitHub irei registrar minha jornada no mundo dos dados, com projetos, pesquisas e estudos.
 
