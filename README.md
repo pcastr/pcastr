@@ -1,25 +1,15 @@
-<img  src="https://github.com/pcastr/pcastr/blob/main/assets/PCASTR.png" />
-<!-- Actual text -->
+Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Lucas Castro. 
 
+I am a Brazilian data engineer with experience in transforming large volumes of data into valuable insights. I work on the development and maintenance of robust ETL solutions, utilizing platforms such as Databricks, Azure, and AWS, along with technologies like Python, Spark, and Airflow. My background includes collaborations on machine learning projects, where I deepened my knowledge of statistics and data analysis. I am always seeking new challenges and opportunities to contribute to impactful projects.
 
-# Olá, pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-###  Sou o Lucas, estudante de Bacharel em Ciência da Computação. Meu foco é a estatística computacional, então prentendo aprender tudo que envolve o assunto, desde Engenharia de Dados, passando por Ciência de Dados até a Engenhearia de Machine Learning. 
+I am currently working at Bradesco Bank.
 
-### Neste GitHub irei registrar minha jornada no mundo dos dados, com projetos, pesquisas e estudos.
+### Here are some of the things that I like to work on.
 
 ### 🔧 Technologies & Tools
-<p>
-<img alt='Python' src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img alt='R' src="https://img.shields.io/badge/Project-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+<p> <img alt='Python' src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img alt='R' src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" /> </p>
 
-<p>
-  
-### 💬 Me manda uma menssagem!
+### 💬 Send me a message!
 
-- Estou aberto a colaborações, então se você achar meu trabalho interessante, sinta-se à vontade para me enviar uma mensagem! Mesmo se você não fizer isso, envie-me uma mensagem de qualquer maneira! Aqui é onde você pode me encontrar:
-
-<p>
-  <a href="https://www.linkedin.com/in/pcastr/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-</p>
-
+I am open to collaborations. You can find me here:
+<p> <a href="https://www.linkedin.com/in/pcastr/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a> </p>
