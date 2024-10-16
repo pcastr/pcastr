@@ -4,8 +4,6 @@ I am a Brazilian data engineer with experience in transforming large volumes of 
 
 I am currently working at Bradesco Private Bank.
 
-### Here are some of the things that I like to work on.
-
 ### 🔧 Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
