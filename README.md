@@ -7,7 +7,11 @@ I am currently working at Bradesco Private Bank.
 ### Here are some of the things that I like to work on.
 
 ### 🔧 Technologies & Tools
-<p> <img alt='Python' src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img alt='R' src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" /> </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,go,rust,lua,scala,bash,aws,azure,gcp,git,kubernetes,docker,linux,neovim" />
+  </a>
+</p>
 
 ### 💬 Send me a message!
 
