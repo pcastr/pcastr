@@ -2,7 +2,7 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 I am a Brazilian data engineer with experience in transforming large volumes of data into valuable insights. I work on the development and maintenance of robust ETL solutions, utilizing platforms such as Databricks, Azure, and AWS, along with technologies like Python, Spark, and Airflow. My background includes collaborations on machine learning projects, where I deepened my knowledge of statistics and data analysis. I am always seeking new challenges and opportunities to contribute to impactful projects.
 
-I am currently working at Bradesco Bank.
+I am currently working at Bradesco Private Bank.
 
 ### Here are some of the things that I like to work on.
 
